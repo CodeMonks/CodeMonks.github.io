@@ -1,2 +1,2 @@
-CodeMonks.github.io
+Code Monks organization site
 ===================
